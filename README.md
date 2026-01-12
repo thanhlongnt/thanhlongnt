@@ -16,7 +16,7 @@
       🎯 <strong>Current Focus</strong><br/>
       <em>Large-scale distributed systems</em><br/>
       Learning cloud tools like <strong>Golang + gRPC</strong><br/>
-      Hardware acceleration with <strong>C + OpenCL</strong>
+      and hardware acceleration with <strong>C + OpenCL</strong>
     </td>
   </tr>
   <tr>
