@@ -5,10 +5,11 @@
 <h3 align="center">💫 About Me</h3>
 
 <p align="center">
-  🚀 Passionate developer exploring the world of technology<br/>
-  💻 Love building innovative solutions and learning new things<br/>
-  🌱 Currently growing my skills and working on exciting projects<br/>
-  ⚡ Always eager to collaborate and share knowledge
+  Hi! My name is Thanh-Long but most people call me T.L.<br>
+  
+  Current intrests are in large scale systems; learning cloud tools like Golang + gRPC and hardware accelerants in C + OpenCL.<br>
+
+  Always building something. My most interesting work is private, feel free to DM and inquire on what I am building!
 </p>
 
 ---
@@ -16,14 +17,20 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
 ---
@@ -31,12 +38,13 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhlongnt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhlongnt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhlongnt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhlongnt&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhlongnt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thanhlongnt&theme=tokyonight&hide_border=true&background=0D1117)
+
 </div>
 
 ---
