@@ -5,12 +5,30 @@
 <h3 align="center">💫 About Me</h3>
 
 <p align="center">
-  Hi! My name is Thanh-Long but most people call me T.L.<br>
-  
-  Current intrests are in large scale systems; learning cloud tools like Golang + gRPC and hardware accelerants in C + OpenCL.<br>
-
-  Always building something. My most interesting work is private, feel free to DM and inquire on what I am building!
+  <em>Hi! My name is <strong>Thanh-Long</strong> but most people call me <strong>T.L.</strong></em>
 </p>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="450">
+      🎯 <strong>Current Focus</strong><br/>
+      <em>Large-scale distributed systems</em><br/>
+      Learning cloud tools like <strong>Golang + gRPC</strong><br/>
+      Hardware acceleration with <strong>C + OpenCL</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="450">
+      🚀 <strong>Always Building</strong><br/>
+      <em>My most interesting work is private</em><br/>
+      Feel free to DM and inquire about what I'm building!
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
